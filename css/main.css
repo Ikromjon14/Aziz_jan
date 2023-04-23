@@ -1,0 +1,36 @@
+body {
+  background-color: green;
+}
+
+.contaainer {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.img {
+  text-align: center;
+}
+
+.aziz {
+  font-weight: 800;
+  text-align: center;
+  color: cadetblue;
+}
+
+.matn1 {
+  font-weight: 900;
+  text-align: center;
+  font-size: 500;
+}
+
+.box {
+  background-color: cadetblue;
+  width: 200px;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.matn {
+  text-align: center;
+}
